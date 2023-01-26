@@ -1,0 +1,17 @@
+{
+  "name": "slackbot",
+  "version": "0.0.1",
+  "description": "slackbot written in JS & node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "lee kirkham",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.12.2"
+  }
+}
